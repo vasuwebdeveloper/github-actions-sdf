@@ -1,0 +1,4 @@
+<manifest projecttype="ACCOUNTCUSTOMIZATION">
+  <projectname>ns-continuous-integration</projectname>
+  <frameworkversion>1.0</frameworkversion>
+</manifest>
